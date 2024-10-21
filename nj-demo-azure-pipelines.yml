@@ -13,7 +13,7 @@ stages:
 #- script: echo This is the production deployement phase!
         - task: ServiceNow-DevOps-Server-Change-Acceleration@1
           inputs:
-            connectedServiceName: 'Servicenow Devops-Azure'
+            connectedServiceName: 'dev257846-SG DevOps Project-ServiceNow DevOps Service Connection'
             changeRequestDetails: |
               {
                   "setCloseCode" : true,
