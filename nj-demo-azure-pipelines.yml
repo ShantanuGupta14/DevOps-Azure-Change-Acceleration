@@ -25,6 +25,9 @@ stages:
                     "start_date": "2025-01-05 08:00:00",
                     "end_date": "2025-01-08 08:00:00",
                     "cab_required": "yes",
+                    "chg_model": {
+                      "name": "DevOps"
+                    },
                     "assignment_group": {
                       "name": "Analytics Settings Managers"
                     }
